@@ -6,3 +6,5 @@ A boat dupe for 6b6t.org
 - Activate AutoMount
 - Activate ToroDupe
 - Enjoy
+
+https://discord.io/Colonizadores
