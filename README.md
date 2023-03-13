@@ -1,8 +1,8 @@
-# Meteor Addon Template
+# Toro Dupe
 
-A template to allow easy usage of the Meteor Addon API.
+A boat dupe for 6b6t.org
 
 ### How to use:  
-- Clone this project
-- Use this template to create new modules/commands
-- Run the mod with Meteor.
+- Activate AutoMount
+- Activate ToroDupe
+- Enjoy
